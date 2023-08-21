@@ -1,1 +1,1 @@
-SELECT * FROM dbo.TableError WHERE dbo.Error = 'ошибка'
+SELECT * FROM dbo.TableStatus WHERE dbo.Status = 'удачно'
